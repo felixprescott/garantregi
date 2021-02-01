@@ -1,0 +1,38 @@
+﻿<link href="/styles.css" type="text/css" rel="stylesheet">
+
+<form class="newFilter" name="filterForm" action="/maps/form.html" method="get">
+    
+    <table>
+        <thead>
+            <tr>
+                <td colspan="6">
+                    <h3>Фильтр</h3>
+                </td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td width="200px">Адрес</td>
+                <td><input type="text" name="n" /></td>
+            </tr>
+            <tr>
+                <td>Населенный пункт</td>
+                <td><select name="c"><option value="">(Все)</option><option value="Ижевск">Ижевск</option><option value="Сарапул">Сарапул</option><option value="Воткинск">Воткинск</option><option value="Глазов">Глазов</option></select></td>
+            </tr>
+            <tr>
+                <td>Тип конструкции</td>
+                <td><select name="t"><option value="">(Все)</option><option value="Билборд">Билборд</option><option value="Призматрон">Призматрон</option><option value="Ситиборд">Ситиборд</option><option value="Цифровой билборд">Цифровой билборд</option><option value="Видеоэкран">Видеоэкран</option></select></td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td>
+                    <button onclick="return false">Фильтр</button>
+                </td>
+                <td>
+                    <button onclick="return false">Сбросить</button>
+                </td>
+            </tr>
+        </tfoot>
+    </table>
+</form>
