@@ -1,3 +1,3 @@
 # garantregi static website
 
-all files used by garant-regi.ru
+Static website https://garant-regi.ru/
