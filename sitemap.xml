@@ -1,64 +1,183 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-	<loc>http://garant-regi.ru/</loc>
-	<lastmod>2017-06-07T16:09:42+01:00</lastmod>
+	<loc>https://garant-regi.ru/</loc>
+	<lastmod>2021-02-04T12:47:07+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://garant-regi.ru/outdoor/</loc>
-	<lastmod>2017-06-07T16:09:44+01:00</lastmod>
+	<loc>https://garant-regi.ru/outdoor/</loc>
+	<lastmod>2021-02-04T12:47:08+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>http://garant-regi.ru/grpp/</loc>
-	<lastmod>2017-06-07T16:09:45+01:00</lastmod>
+	<loc>https://garant-regi.ru/lightscreen/</loc>
+	<lastmod>2021-02-04T12:47:08+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>http://garant-regi.ru/offer/</loc>
-	<lastmod>2017-06-07T16:09:46+01:00</lastmod>
+	<loc>https://garant-regi.ru/grpp/</loc>
+	<lastmod>2021-02-04T12:47:09+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>http://garant-regi.ru/contacts/</loc>
-	<lastmod>2017-06-07T16:09:48+01:00</lastmod>
+	<loc>https://garant-regi.ru/offer/</loc>
+	<lastmod>2021-02-04T12:47:09+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>http://garant-regi.ru/make/</loc>
-	<lastmod>2017-06-07T16:09:49+01:00</lastmod>
+	<loc>https://garant-regi.ru/contacts/</loc>
+	<lastmod>2021-02-04T12:47:09+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>http://garant-regi.ru/order/</loc>
-	<lastmod>2017-06-07T16:09:51+01:00</lastmod>
+	<loc>https://garant-regi.ru/maps/</loc>
+	<lastmod>2021-02-04T12:47:10+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>http://garant-regi.ru/billboards/</loc>
-	<lastmod>2017-06-07T16:09:51+01:00</lastmod>
+	<loc>https://garant-regi.ru/make/</loc>
+	<lastmod>2021-02-04T12:47:10+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>http://garant-regi.ru/city-rollers/</loc>
-	<lastmod>2017-06-07T16:09:52+01:00</lastmod>
+	<loc>https://garant-regi.ru/order/</loc>
+	<lastmod>2021-02-04T12:47:10+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>http://garant-regi.ru/city-boards/</loc>
-	<lastmod>2017-06-07T16:09:54+01:00</lastmod>
+	<loc>https://garant-regi.ru/billboard/</loc>
+	<lastmod>2021-02-04T12:47:10+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>http://garant-regi.ru/kompaniya.php</loc>
-	<lastmod>2017-06-07T16:09:54+01:00</lastmod>
+	<loc>https://garant-regi.ru/cityboard/</loc>
+	<lastmod>2021-02-04T12:47:11+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>http://garant-regi.ru/feedback/</loc>
-	<lastmod>2017-06-07T16:10:00+01:00</lastmod>
+	<loc>https://garant-regi.ru/sitemap/</loc>
+	<lastmod>2021-02-04T12:47:11+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/about/</loc>
+	<lastmod>2021-02-04T12:47:11+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/tehnicheskie-trebovaniya-banner-standartnye-3x6.pdf</loc>
+	<lastmod>2021-02-04T12:47:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/tehnicheskie-trebovaniya-banner-standartnye-27x37.pdf</loc>
+	<lastmod>2021-02-04T12:47:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/trebovaniya-podgotovki-maketa-k-shirokoformatnoj-pechati.pdf</loc>
+	<lastmod>2021-02-04T12:47:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/tehnicheskie-trebovaniya-poster-3x6.pdf</loc>
+	<lastmod>2021-02-04T12:47:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/tehnicheskie-trebovaniya-cityboard-2.7x3.7.pdf</loc>
+	<lastmod>2021-02-04T12:47:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/tehnicheskie-trebovaniya-cityroller-1.2x1.8.pdf</loc>
+	<lastmod>2021-02-04T12:47:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/tehnicheskie-trebovaniya-brandmauer-6x12-vertikalnyj.pdf</loc>
+	<lastmod>2021-02-04T12:47:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/tehnicheskie-trebovaniya-brandmauer-1777x885-gorizontalnyj.pdf</loc>
+	<lastmod>2021-02-04T12:47:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/tehnicheskie-trebovaniya_prizmatron_3x6.pdf</loc>
+	<lastmod>2021-02-04T12:47:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/tehnicheskie-trebovaniya-banner-4x9-novye.pdf</loc>
+	<lastmod>2021-02-04T12:47:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/tehnicheskie-trebovaniya-ostanovochnyj-kompleks-095x150.pdf</loc>
+	<lastmod>2021-02-04T12:47:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/tehnicheskie-trebovaniya-ostanovochnyj-kompleks-108x150.pdf</loc>
+	<lastmod>2021-02-04T12:47:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/tehnicheskie-trebovaniya-ostanovochnyj-kompleks-120x180.pdf</loc>
+	<lastmod>2021-02-04T12:47:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/tehnicheskie-trebovaniya-ostanovochnyj-kompleks-200x140.pdf</loc>
+	<lastmod>2021-02-04T12:47:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/tehnicheskie-trebovaniya-pillar-14x29.pdf</loc>
+	<lastmod>2021-02-04T12:47:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/tt_videolightscreen1.pdf</loc>
+	<lastmod>2021-02-04T12:47:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/tt_videolightscreen2.pdf</loc>
+	<lastmod>2021-02-04T12:47:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/tt_videolightscreen3.pdf</loc>
+	<lastmod>2021-02-04T12:47:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/tt_videolightscreen4.pdf</loc>
+	<lastmod>2021-02-04T12:47:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/tt-maket-bilbord-3x6.pdf</loc>
+	<lastmod>2021-02-04T12:47:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/tt-maket-pillar-1,4x2,9.pdf</loc>
+	<lastmod>2021-02-04T12:47:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/tt-maket-citybord-2,7x3,7.pdf</loc>
+	<lastmod>2021-02-04T12:47:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://garant-regi.ru/make/tt-maket-cityroller-1,2x1,8.pdf</loc>
+	<lastmod>2021-02-04T12:47:15+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 </urlset>

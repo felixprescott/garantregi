@@ -1,6 +1,6 @@
 /**
  * @preserve Galleria v 1.2.2 2011-02-25
- * http://galleria.aino.se
+ * galleria.aino.se
  *
  * Copyright (c) 2011, Aino
  * Licensed under the MIT license.
@@ -542,7 +542,7 @@ var undef,
 
     @example var gallery = new Galleria();
 
-    @author http://aino.se
+    @author aino.se
 
     @requires jQuery
 

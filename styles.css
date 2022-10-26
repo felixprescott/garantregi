@@ -68,10 +68,7 @@ body > #all {height: auto;min-height: 100%;}
 	float:right;
 	margin:0 0 10px 10px;
 }
-img[align=left] {
-	float:left;
-	margin:0 10px 10px 0;
-}
+img[align=left] {float:left;margin:20px;}
 img[align=right] {
 	float:right;
 	margin:0 0 10px 10px;
